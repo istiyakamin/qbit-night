@@ -80,7 +80,7 @@ A quantum algorithm for searching an unsorted database with quadratic speedup ov
 ## H
 
 ### Hadamard Gate (H)
-A single-qubit gate that creates an equal superposition: H|0⟩ = (|00⟩ + |1⟩)/√2.
+A single-qubit gate that creates an equal superposition: H|0⟩ = (|0⟩ + |1⟩)/√2.
 
 ---
 
